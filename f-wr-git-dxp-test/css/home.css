@@ -6643,6 +6643,7 @@ iframe[src*='issuu'], iframe[src*='prezi'] {
     .card--course .wrapper--card__label__details {
         display: flex;
         flex-direction: row;
+        background-color: yellowgreen;
     }
 }
 
