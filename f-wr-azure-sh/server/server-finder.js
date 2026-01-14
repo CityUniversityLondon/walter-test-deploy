@@ -32856,7 +32856,7 @@ function disableBodyScroll() {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/vsts/work/1/s/src/matrix-server/server-finder.js */"./src/matrix-server/server-finder.js");
+module.exports = __webpack_require__(/*! /opt/azagent/_work/2/s/src/matrix-server/server-finder.js */"./src/matrix-server/server-finder.js");
 
 
 /***/ })
