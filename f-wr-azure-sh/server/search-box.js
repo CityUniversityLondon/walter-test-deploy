@@ -23923,6 +23923,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+console.log('walter test edit');
 
 try {
   var wrapper = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_patterns_search_box_searchBox__WEBPACK_IMPORTED_MODULE_2__["default"], {
