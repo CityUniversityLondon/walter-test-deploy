@@ -98,7 +98,7 @@
 
 // test file. test update, another update
 function test() {
-  console.log("This is a test file for testing purposes. another comment");
+  console.log("This is a test file for testing purposes. another comment walter");
 }
 
 test();
