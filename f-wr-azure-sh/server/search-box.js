@@ -23923,16 +23923,19 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-console.log('walter test edit');
 
 try {
   var wrapper = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_patterns_search_box_searchBox__WEBPACK_IMPORTED_MODULE_2__["default"], {
     config: config
   }) // eslint-disable-line no-undef
   ;
+  var walterElement = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_patterns_search_box_searchBox__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    config: config
+  }) // eslint-disable-line no-undef
+  ;
   print(Object(react_dom_server__WEBPACK_IMPORTED_MODULE_1__["renderToStaticMarkup"])(wrapper));
 } catch (e) {
-  print('<!--Error: ' + e + '-->');
+  print('<!--Error walterError: ' + e + '-->');
 }
 
 /***/ }),
