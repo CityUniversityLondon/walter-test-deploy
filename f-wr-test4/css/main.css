@@ -6669,6 +6669,8 @@ iframe[src*='issuu'], iframe[src*='prezi'] {
     .card--course .wrapper--card__label__details {
         display: flex;
         flex-direction: row;
+        background-color: yellowgreen;
+        background-color: #777777;
     }
 }
 
@@ -10084,6 +10086,7 @@ article a {
     color: #006bbd;
     color: walterred;
     color: walterGreen;
+    top: 30px;
 }
 
 @media (hover: hover) {
@@ -10576,6 +10579,7 @@ form:not([class]) textarea[type='submit']:active,
     .form textarea[type='submit']:hover {
         background-color: #9e111c;
         color: #ffffff;
+        background-color: #9e111c;
     }
 }
 
@@ -12552,6 +12556,7 @@ form:not([class]) .form__required-note--marker,
     .cms-editor .cms-editor-warning-remover:hover {
         background-color: #370612;
         color: #ffffff;
+        background-color: #370612;
     }
 }
 
@@ -32558,6 +32563,7 @@ blockquote footer cite {
     .skip-links .skip-links__link:hover {
         background-color: #9e111c;
         color: #ffffff;
+        background-color: #9e111c;
     }
 }
 
@@ -42503,6 +42509,7 @@ main > article .finder .finder__results__list.finder__results__list--three-up {
     .finder__query__submit:hover {
         background-color: #9e111c;
         color: #ffffff;
+        background-color: #9e111c;
     }
 }
 
@@ -57856,6 +57863,7 @@ main > .news .news__contact .card--contact .card__details .card__tag .icon {
     .search .search__query__submit:hover {
         background-color: #9e111c;
         color: #ffffff;
+        background-color: #9e111c;
     }
 }
 

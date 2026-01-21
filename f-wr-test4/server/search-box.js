@@ -81,7 +81,7 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 0);
+/******/ 	return __webpack_require__(__webpack_require__.s = 1);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -19425,7 +19425,7 @@ util.inherits = __webpack_require__(/*! inherits */ "./node_modules/inherits/inh
 /*</replacement>*/
 
 /*<replacement>*/
-var debugUtil = __webpack_require__(/*! util */ 1);
+var debugUtil = __webpack_require__(/*! util */ 2);
 var debug = void 0;
 if (debugUtil && debugUtil.debuglog) {
   debug = debugUtil.debuglog('stream');
@@ -21314,7 +21314,7 @@ Writable.prototype._destroy = function (err, cb) {
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 var Buffer = __webpack_require__(/*! safe-buffer */ "./node_modules/safe-buffer/index.js").Buffer;
-var util = __webpack_require__(/*! util */ 2);
+var util = __webpack_require__(/*! util */ 3);
 
 function copyBuffer(src, target, offset) {
   src.copy(target, offset);
@@ -23929,9 +23929,13 @@ try {
     config: config
   }) // eslint-disable-line no-undef
   ;
+  var walterElement = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_patterns_search_box_searchBox__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    config: config
+  }) // eslint-disable-line no-undef
+  ;
   print(Object(react_dom_server__WEBPACK_IMPORTED_MODULE_1__["renderToStaticMarkup"])(wrapper));
 } catch (e) {
-  print('<!--Error: ' + e + '-->');
+  print('<!--Error walterError v4: ' + e + '-->');
 }
 
 /***/ }),
@@ -25428,19 +25432,19 @@ function disableBodyScroll() {
 
 /***/ }),
 
-/***/ 0:
+/***/ 1:
 /*!***********************************************!*\
   !*** multi ./src/matrix-server/search-box.js ***!
   \***********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/vsts/work/1/s/src/matrix-server/search-box.js */"./src/matrix-server/search-box.js");
+module.exports = __webpack_require__(/*! /opt/azagent/_work/2/s/src/matrix-server/search-box.js */"./src/matrix-server/search-box.js");
 
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!**********************!*\
   !*** util (ignored) ***!
   \**********************/
@@ -25451,7 +25455,7 @@ module.exports = __webpack_require__(/*! /home/vsts/work/1/s/src/matrix-server/s
 
 /***/ }),
 
-/***/ 2:
+/***/ 3:
 /*!**********************!*\
   !*** util (ignored) ***!
   \**********************/

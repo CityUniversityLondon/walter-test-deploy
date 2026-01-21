@@ -6643,6 +6643,8 @@ iframe[src*='issuu'], iframe[src*='prezi'] {
     .card--course .wrapper--card__label__details {
         display: flex;
         flex-direction: row;
+        background-color: yellowgreen;
+        background-color: #777777;
     }
 }
 
@@ -10066,6 +10068,7 @@ article a {
     color: #006bbd;
     color: walterred;
     color: walterGreen;
+    top: 30px;
 }
 
 @media (hover: hover) {
@@ -11382,6 +11385,7 @@ article a:active {
     .cms-editor .cms-editor-warning-remover:hover {
         background-color: #370612;
         color: #ffffff;
+        background-color: #370612;
     }
 }
 
@@ -13941,6 +13945,7 @@ article a:active {
     .skip-links .skip-links__link:hover {
         background-color: #9e111c;
         color: #ffffff;
+        background-color: #9e111c;
     }
 }
 
@@ -30452,6 +30457,7 @@ main .home-banner .cta-block a, main .home-banner .cta-block a:focus, main .home
     main .home-banner .cta-block a:hover {
         background-color: #790b21;
         color: #ffffff;
+        background-color: #790b21;
     }
 }
 

@@ -81,7 +81,7 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 5);
+/******/ 	return __webpack_require__(__webpack_require__.s = 6);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -10316,14 +10316,14 @@ Wrapper.propTypes = {
 
 /***/ }),
 
-/***/ 5:
+/***/ 6:
 /*!*********************************************!*\
   !*** multi ./src/matrix-server/test-ssr.js ***!
   \*********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/vsts/work/1/s/src/matrix-server/test-ssr.js */"./src/matrix-server/test-ssr.js");
+module.exports = __webpack_require__(/*! /opt/azagent/_work/2/s/src/matrix-server/test-ssr.js */"./src/matrix-server/test-ssr.js");
 
 
 /***/ })
